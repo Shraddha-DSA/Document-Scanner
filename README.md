@@ -19,7 +19,7 @@ It detects the edges of a document in an image, applies perspective correction, 
  
  1) Clone the repository:
  
- git clone https://github.com/your-username/document_scanner.git
+ git clone https://github.com/Shraddha-DSA/document_scanner.git
  
  cd document_scanner
  
